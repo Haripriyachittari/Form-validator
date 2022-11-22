@@ -66,6 +66,6 @@ const validateInputs = () => {
     } else {
         setSuccess(password2);
     }
-    alert("Successfully registered 😃 ")
+   
 
 };
